@@ -1,3 +1,6 @@
+# Cursor ID 重置工具截图
+![PixPin_2025-01-23_23-56-22](https://github.com/user-attachments/assets/63c0b8f3-ace2-49c5-9670-40149816d61a)
+
 # Cursor ID 重置工具
 
 这是一个用于重置 Cursor 编辑器 ID 的工具，可以帮助您：
